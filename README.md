@@ -3,7 +3,7 @@
 
 A curated list of Cylc workflows and useful resources.
 
-Each item specifies the Cylc main versions it is compatible with. For exemple, "**[VSCode [7/8]](#syntax-highlighting)**" means that this IDE extension is compatible with Cylc 7 and 8.
+Each item specifies the Cylc main versions it is compatible with. For exemple, "**[7/8] [VSCode](#syntax-highlighting)**" means that this IDE extension is compatible with Cylc 7 and 8.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -47,4 +47,4 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 
 ## Videos
 - **[8] [IS-ENES3 Webinar](https://youtu.be/MHC-PCuy_94?feature=shared)** - Introduction to the Cylc workflow engine by Oliver Sanders (2023).
-- **[7] [NeSI Webinar](https://youtu.be/lYTEWn4mncE?feature=shared)** - Workflow Orchestration with Cylc 8 on NeSI Platforms (2019).
+- **[8] [NeSI Webinar](https://youtu.be/lYTEWn4mncE?feature=shared)** - Workflow Orchestration with Cylc 8 on NeSI Platforms, Hilary Oliver (2022).
