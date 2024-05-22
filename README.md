@@ -3,8 +3,15 @@ A curated list of Cylc workflows and useful resources.
 
 Each item specifies the Cylc main versions it is compatible with. For exemple, "**[VSCode [7/8]](#syntax-highlighting)**" means that this IDE extension is compatible with Cylc 7 and 8.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Presentations](#presentations)
+- [Videos](#videos)
+- [Syntax Highlighting](#syntax-highlighting)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Fully-Fledged Workflows
 
