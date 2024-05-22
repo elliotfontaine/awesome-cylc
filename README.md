@@ -7,6 +7,9 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+- [Fully-Fledged Workflows](#fully-fledged-workflows)
+- [Workflow Design Patterns](#workflow-design-patterns)
+- [CI/CD](#cicd)
 - [Presentations](#presentations)
 - [Videos](#videos)
 - [Syntax Highlighting](#syntax-highlighting)
