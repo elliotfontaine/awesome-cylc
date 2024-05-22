@@ -1,5 +1,13 @@
-on: push
 name: 📖 TOC Generator
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+  pull_request:
+    branches: [main]
+    paths:
+      - '**/*.md'
 jobs:
   generateTOC:
     name: TOC Generator
