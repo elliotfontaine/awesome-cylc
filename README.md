@@ -11,10 +11,11 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 
 - [Fully-Fledged Workflows](#fully-fledged-workflows)
 - [Workflow Design Patterns](#workflow-design-patterns)
+- [Cylc Plugins](#cylc-plugins)
 - [CI/CD](#cicd)
+- [Syntax Highlighting](#syntax-highlighting)
 - [Presentations](#presentations)
 - [Videos](#videos)
-- [Syntax Highlighting](#syntax-highlighting)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
