@@ -4,10 +4,12 @@ on:
     branches: [main]
     paths:
       - 'README.md'
+      - '.github/workflows/toc.yml'
   pull_request:
     branches: [main]
     paths:
       - 'README.md'
+      - '.github/workflows/toc.yml'
 jobs:
   generateTOC:
     name: TOC Generator

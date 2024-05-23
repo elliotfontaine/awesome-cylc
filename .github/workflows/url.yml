@@ -5,10 +5,12 @@ on:
       branches: [main]
       paths:
         - 'README.md'
+        - '.github/workflows/url.yml'
     pull_request:
       branches: [main]
       paths:
         - 'README.md'
+        - '.github/workflows/url.yml'
 
 jobs:
   build:
