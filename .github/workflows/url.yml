@@ -1,0 +1,22 @@
+name: 🔗 URL Checker
+
+on:
+    push:
+      branches: [main]
+      paths:
+        - 'README.md'
+    pull_request:
+      branches: [main]
+      paths:
+        - 'README.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Check URLs
+        uses: paramt/url-checker@master
+        with:
+          files: "README.md,SUPPORT.md"
