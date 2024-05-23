@@ -1,4 +1,5 @@
 name: 📖 TOC Generator
+
 on:
   push:
     branches: [main]
@@ -10,6 +11,10 @@ on:
     paths:
       - 'README.md'
       - '.github/workflows/toc.yml'
+
+permissions:
+  contents: write
+
 jobs:
   generateTOC:
     name: TOC Generator

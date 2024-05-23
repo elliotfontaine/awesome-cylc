@@ -12,6 +12,9 @@ on:
         - 'README.md'
         - '.github/workflows/url.yml'
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
