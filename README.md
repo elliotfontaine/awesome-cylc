@@ -9,13 +9,21 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Fully-Fledged Workflows](#fully-fledged-workflows)
-- [Workflow Design Patterns](#workflow-design-patterns)
-- [Cylc Plugins](#cylc-plugins)
-- [CI/CD](#cicd)
-- [Syntax Highlighting](#syntax-highlighting)
-- [Presentations](#presentations)
-- [Videos](#videos)
+<p align="center">
+<a href="#fully-fledged-workflows">Fully-Fledged Workflows</a>
+<span>|</span>
+<a href="#workflow-design-patterns">Workflow Design Patterns</a>
+<span>|</span>
+<a href="#cylc-plugins">Cylc Plugins</a>
+<span>|</span>
+<a href="#cicd">CI/CD</a>
+<span>|</span>
+<a href="#syntax-highlighting">Syntax Highlighting</a>
+<span>|</span>
+<a href="#presentations">Presentations</a>
+<span>|</span>
+<a href="#videos">Videos</a>
+</p>
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
