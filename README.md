@@ -1,9 +1,9 @@
 # <img src="https://github.com/elliotfontaine/awesome-cylc/assets/92150839/1536672f-0fab-4d93-8a66-a4daa1d6cd53" alt="Cylc Logo" width=5% height=5%> Awesome Cylc
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of Cylc workflows and useful resources. Please feel free to contribute!
+A curated list of [Cylc](https://cylc.github.io/) workflows and useful resources. Please feel free to contribute!
 
-Each item specifies the Cylc main versions it is compatible with. For exemple, "**[7/8] [VSCode](#syntax-highlighting)**" means that this IDE extension is compatible with Cylc 7 and 8.
+Each item specifies the Cylc main versions it is compatible with. For exemple, "**[7/8] Cylc VSCode Extension**" means that this IDE extension is compatible with Cylc 7 and 8.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
