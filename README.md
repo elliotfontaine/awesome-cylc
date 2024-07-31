@@ -38,6 +38,7 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 - **[8] [Cylc Patterns](https://github.com/pletzer/cylc_patterns)** - A collection of commonly used Cylc workflow patterns.
 - **[8] [Sub-Workflow](https://github.com/hjoliver/cylc-subwf-example)** - A workflow run by a task in another workflow.
 - **[8] [File-Driven Workflow](https://github.com/hjoliver/cylc-filedriven-example)** - Emulating [Snakemake](https://snakemake.github.io/)-like data processing.
+- **[7] [Tasks in Conda Envs](https://github.com/matthewrmshin/cylc-workflow-conda)** - A Cylc workflow template where tasks can be run inside [Conda](https://github.com/conda/conda) virtual environments.
 
 ## Cylc Plugins
 - **[8] [Cylc-Rose Plugin](https://github.com/cylc/cylc-rose)** - A Cylc plugin providing support for the Rose `rose-suite.conf` file. Cylc 8 and Rose 2.
