@@ -57,7 +57,7 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 - **[8] [Other IDEs](https://cylc.github.io/cylc-doc/latest/html/user-guide/writing-workflows/configuration.html#syntax-highlighting-for-workflow-configuration)** - Instructions for enabling syntax highlighting in other editors (Atom, Emacs, Gedit, Kate, Vim).
 
 ## Research Papers
-- **[Workflow Automation for Cycling Systems](https://doi.org/10.1109/MCSE.2019.2906593), *Oliver et al.*** - Original Cylc publication.
+- **[Workflow Automation for Cycling Systems](https://ieeexplore.ieee.org/document/8675433), *Oliver et al.*** - Original Cylc publication.
 - **[Automated model optimisation using the Cylc workflow engine (Cyclops v1.0)](https://doi.org/10.5194/gmd-11-2153-2018), *Gormat et Oliver*** - How to use Cylc and [NLops](https://nlopt.readthedocs.io/en/latest/) for geophysical model parameters tuning.
 
 ## Presentations
@@ -68,4 +68,4 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 - **[8] [NeSI Webinar](https://youtu.be/lYTEWn4mncE?feature=shared)** - Workflow Orchestration with Cylc 8 on NeSI Platforms, Hilary Oliver (2022).
 
 ## Miscellaneous
-- **[7/8] [Altair Weather Solution](https://web.altair.com/en/cylc-weather-solution)** - Commercial support for Cylc from Altair, using Altair PBS Professional™ for workload management ([blog article](https://altair.com/blog/articles/Cylc-Altair-s-PBS-Professional-x2122-Power-Weather-Modeling-at-Australia-s-Bureau-of-Meteorology)).
+- **[7/8] [Altair Weather Solution](https://web.altair.com/en/cylc-weather-solution)** - Commercial support for Cylc from Altair, using Altair PBS Professional™ for workload management. [Blog article](https://altair.com/blog/articles/Cylc-Altair-s-PBS-Professional-x2122-Power-Weather-Modeling-at-Australia-s-Bureau-of-Meteorology).
