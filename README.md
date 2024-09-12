@@ -30,8 +30,9 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 ## Fully-Fledged Workflows
 - **[8] [Cylc-GeoFabrics](https://github.com/rosepearson/cylc-geofabrics)** - A workflow for automating the use of [GeoFabrics](https://github.com/rosepearson/GeoFabrics) on NeSI.
 - **[8] [RTMet](https://github.com/MetaboHUB-MetaToul-FluxoMet/RTMet)** - A workflow to process mass spectrometry data for metabolomics.
-- **[8] [Cylc-Log-Analysis](https://github.com/aosprey/cylc-log-analysis)** - A workflow for asynchronously archiving and analysing cylc job logs from multiple cylc suites/workflows.
+- **[8] [Cylc-Log-Analysis](https://github.com/aosprey/cylc-log-analysis)** - A workflow for asynchronously archiving and analysing cylc job logs from multiple workflows.
 - **[7] [CMIP6 Workflows](https://github.com/NCAR/CESM_CMIP6_Cylc_Suites)** - Workflows used for the [CMIP6](http://doi.org/10.5194/gmd-13-5567-2020) experiments that NCAR participated in.
+- **[7] [eWaterCycle](https://github.com/eWaterCycle/ewatercycle-forecast)** - Workflow of the [eWaterCycle](https://www.ewatercycle.org/) forecasting system.
 
 ## Workflow Design Patterns
 - **[7/8] [Tim's Simple Cylc Examples](https://github.com/wxtim/workflows)** - A collection of minimal Cylc workflows highlighting different features.
@@ -50,9 +51,16 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 - **[8] [Cylc TextMate Bundle](https://github.com/cylc/Cylc.tmbundle)** - For TextMate, Sublime Text, PyCharm, WebStorm and other editors.
 - **[8] [Other IDEs](https://cylc.github.io/cylc-doc/latest/html/user-guide/writing-workflows/configuration.html#syntax-highlighting-for-workflow-configuration)** - Instructions for enabling syntax highlighting in other editors (Atom, Emacs, Gedit, Kate, Vim).
 
+## Research Papers
+- **[Workflow Automation for Cycling Systems](https://doi.org/10.1109/MCSE.2019.2906593), *Oliver et al.*** - Original Cylc publication.
+- **[Automated model optimisation using the Cylc workflow engine (Cyclops v1.0)](https://doi.org/10.5194/gmd-11-2153-2018), *Gormat et Oliver*** - How to use Cylc and [NLops](https://nlopt.readthedocs.io/en/latest/) for geophysical model parameters tuning.
+
 ## Presentations
 - **[7/8] [Cylc Presentations](https://cylc.github.io/cylc-presentations/)** - Official list of presentations by the Cylc team.
 
 ## Videos
 - **[8] [IS-ENES3 Webinar](https://youtu.be/MHC-PCuy_94?feature=shared)** - Introduction to the Cylc workflow engine by Oliver Sanders (2023).
 - **[8] [NeSI Webinar](https://youtu.be/lYTEWn4mncE?feature=shared)** - Workflow Orchestration with Cylc 8 on NeSI Platforms, Hilary Oliver (2022).
+
+## Miscellaneous
+- **[7/8] [Altair Weather Solution](https://web.altair.com/en/cylc-weather-solution)** - Commercial support for Cylc from Altair, using Altair PBS Professional™ for workload management ([blog article](https://altair.com/blog/articles/Cylc-Altair-s-PBS-Professional-x2122-Power-Weather-Modeling-at-Australia-s-Bureau-of-Meteorology)).
