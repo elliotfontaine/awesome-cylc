@@ -20,9 +20,13 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 <span>|</span>
 <a href="#syntax-highlighting">Syntax Highlighting</a>
 <span>|</span>
+<a href="#research-papers">Research Papers</a>
+<span>|</span>
 <a href="#presentations">Presentations</a>
 <span>|</span>
 <a href="#videos">Videos</a>
+<span>|</span>
+<a href="#miscellaneous">Miscellaneous</a>
 </p>
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
