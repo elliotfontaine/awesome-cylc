@@ -39,7 +39,7 @@ Each item specifies the Cylc main versions it is compatible with. For exemple, "
 - **[7] [eWaterCycle](https://github.com/eWaterCycle/ewatercycle-forecast)** - Workflow of the [eWaterCycle](https://www.ewatercycle.org/) forecasting system.
 
 ## Workflow Design Patterns
-- **[8] [Hilary's Data Driven Workflow example](https://github.com/hjoliver/cylc-and-data)** - A simple example to illustrate the relationship between Cylc workflows and the data they process.
+- **[8] [Data in Cylc Workflows](https://github.com/hjoliver/cylc-and-data)** - A simple example to illustrate the relationship between Cylc workflows and the data they process.
 - **[7/8] [Tim's Simple Cylc Examples](https://github.com/wxtim/workflows)** - A collection of minimal Cylc workflows highlighting different features.
 - **[8] [Cylc Patterns](https://github.com/pletzer/cylc_patterns)** - A collection of commonly used Cylc workflow patterns.
 - **[8] [Sub-Workflow](https://github.com/hjoliver/cylc-subwf-example)** - A workflow run by a task in another workflow.
