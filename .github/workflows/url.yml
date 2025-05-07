@@ -25,4 +25,4 @@ jobs:
         uses: paramt/url-checker@master
         with:
           files: "README.md"
-          blacklist: https://ieeexplore.ieee.org/document/8675433, https://dl.acm.org/doi/abs/10.1109/SCW63240.2024.00253
+          blacklist: "https://ieeexplore.ieee.org/document/8675433,https://dl.acm.org/doi/abs/10.1109/SCW63240.2024.00253"
