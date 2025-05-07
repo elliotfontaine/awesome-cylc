@@ -10,23 +10,17 @@ Each entry specifies the main Cylc versions it supports. For example, "**8️⃣
 ## Table of Contents
 
 <p align="center">
-<a href="#fully-fledged-workflows">Fully-Fledged Workflows</a>
+<a href="#-real-world-workflows">🌍 Real-World Workflows</a>
 <span>|</span>
-<a href="#workflow-design-patterns">Workflow Design Patterns</a>
+<a href="#-templates--design-patterns">🧩 Templates & Design Patterns</a>
 <span>|</span>
-<a href="#cylc-plugins">Cylc Plugins</a>
+<a href="#-tooling--extensions">🧰 Tooling & Extensions</a>
 <span>|</span>
-<a href="#cicd">CI/CD</a>
+<a href="#-deployments">🚀 Deployments</a>
 <span>|</span>
-<a href="#syntax-highlighting">Syntax Highlighting</a>
+<a href="#-learning--presentations">🎓 Learning & Presentations</a>
 <span>|</span>
-<a href="#research-papers">Research Papers</a>
-<span>|</span>
-<a href="#presentations">Presentations</a>
-<span>|</span>
-<a href="#videos">Videos</a>
-<span>|</span>
-<a href="#miscellaneous">Miscellaneous</a>
+<a href="#-publications">📚 Publications</a>
 </p>
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
